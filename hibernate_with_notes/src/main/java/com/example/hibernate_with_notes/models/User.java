@@ -9,7 +9,6 @@ import jakarta.persistence.Table;
 import jakarta.persistence.Transient;
 
 //@Entity is an annotation
-
 //Declares that the annotated class is an entity. The annotated entityclass must: 
 //•be a non-final top-level class or static inner class, 
 //•have a public or protected constructor with noparameters, and 
